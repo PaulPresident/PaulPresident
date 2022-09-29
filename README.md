@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-i'm [Paul Sedra](https://paulmsedra.pages.dev/), self-taught full stack developer and currently pursuing a bachelor's of science in cs
+i'm [Paul Sedra](https://paulmsedra.pages.dev/), self-taught full stack developer and currently pursuing a bachelor's of science in cs.
 
 - 💼 any freelance work? i'd love to chat, [email](mailto:paulm.sedra@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
