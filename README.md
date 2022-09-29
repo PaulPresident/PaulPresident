@@ -6,5 +6,7 @@
   <img align="left" alt="Paul's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+
 hi, I'm [Paul Sedra](https://paulmsedra.pages.dev/)
 
